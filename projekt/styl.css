@@ -1,0 +1,128 @@
+
+
+
+body
+{
+background-color: #343a40;
+color: white;
+margin: 0;
+    padding: 0;
+}
+
+#navbarNav
+{
+background-color:#64686d;
+}
+
+.kolumn {
+    min-height: 350px; 
+}
+
+.btn
+{
+    color: white;
+}
+
+.btn-outline {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-outline:hover {
+    background-color: #343a40;
+}
+
+.card a {
+    text-decoration: none; /* Usuwa podkreślenie z linków w kartach */
+}
+
+footer 
+{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.kolumn {
+    min-height: 350px;
+    transition: box-shadow 0.3s ease; /* Dodajemy płynne przejście */
+}
+
+.kolumn:hover {
+    box-shadow: 0 4px 10px #fafafa; /* Efekt cienia po najechaniu */
+}
+
+
+.mancity
+{
+    background-image: url('zdj/mci.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.lfc
+{
+    background-image: url('zdj/lfcc.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.chl
+{
+    background-image: url('zdj/chl.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.ars
+{
+    background-image: url('zdj/ars.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.tt
+{
+    background-image: url('zdj/tt.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.mun
+{
+    background-image: url('zdj/mun.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.lci
+{
+    background-image: url('zdj/lci.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.whu
+{
+    background-image: url('zdj/whu.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.wiecej
+{
+text-align: center;
+
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+            background-color: rgb(179, 176, 176); /* Kolor tła strzałek */
+}
